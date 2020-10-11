@@ -13,9 +13,9 @@
     margin:auto;
 }
 .navbar{ 
-    border: 2px solid black;
+    border: 3px solid black;
     padding: 23px 23px;
-    margin:12px;
+    margin:14px;
     display: flex;
     justify-content: space-between;
      
@@ -41,14 +41,14 @@
     align-items: center;
 }
 .nav-left img{
-    width: 56px;
+    width: 58px;
 }
 
 .btn{
     font-size: 18px;
     padding: 10px 20px;
     background-color: white;
-    border: 2px solid var(--main-color);
+    border: 3px solid var(--main-color);
     border-radius: 34px;
     color: var(--main-color);
     cursor: pointer;
